@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What is the primary purpose of an operating system?",
+      "choices": [
+        "To provide a platform for software applications to run",
+        "To connect to the internet",
+        "To manage hardware resources",
+        "To serve web pages"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which protocol is used to securely browse the web?",
+      "choices": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SSH"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does CPU stand for?",
+      "choices": [
+        "Central Process Unit",
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of the main page of a website?",
+      "choices": [
+        "Home Page",
+        "Main Page",
+        "Web Page",
+        "Landing Page"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of RAM?",
+      "choices": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Ready Access Memory",
+        "Random Available Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is not an operating system?",
+      "choices": [
+        "Windows",
+        "Linux",
+        "Oracle",
+        "MacOS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which device is used to connect a computer to the internet?",
+      "choices": [
+        "Router",
+        "Modem",
+        "Switch",
+        "Hub"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does IP stand for in IP address?",
+      "choices": [
+        "Internet Provider",
+        "Internet Protocol",
+        "Internet Process",
+        "Internet Program"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which programming language is primarily used for web development?",
+      "choices": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "C++"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main function of the ALU in a computer?",
+      "choices": [
+        "To manage data storage",
+        "To perform arithmetic and logic operations",
+        "To control input and output devices",
+        "To process instructions"
+      ],
+      "answer": 1
+    }
+  ]
+  
